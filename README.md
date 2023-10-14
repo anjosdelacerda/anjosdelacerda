@@ -4,7 +4,7 @@
 
 Iniciei meus estudos em tecnologia na escola **Kenzie Academy Brasil** através de uma parceria com o **iFood** para formação de novos profissionais no mercado tecnológico. No curso de **Desenvolvedor Web Full-Stack** desenvolvi projetos e micro-serviços utilizando metodologias ágeis, tanto em projetos individuais quanto nos em equipe, dividindo as tasks por sprints e utilizando o kanban para organização.
 
-Atualmente estudo **desenvolvimento de software** na **Cubos Academy** através de um programa de bolsas do **iFood**, onde entre 30.000 candidatos fui um dos 1000 selecionados para participar do projeto. Também estudo **back-end Java** através do programa **Bootcamp Santander** em parceria com a **DIO**.
+Atualmente estudo **desenvolvimento de software** na **Cubos Academy** através de um programa de bolsas do **iFood**, onde entre 30.000 candidatos fui um dos 1000 selecionados para participar do projeto. Também estudo **Desenvolvimento Web Front-end** na escola de programação **ADA TECH**.
 
 <div> 
   
