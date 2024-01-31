@@ -2,9 +2,11 @@
 
 # SOBRE MIM:
 
-Iniciei meus estudos em tecnologia na escola **Kenzie Academy Brasil** através de uma parceria com o **iFood** para formação de novos profissionais no mercado tecnológico. No curso de **Desenvolvedor Web Full-Stack** desenvolvi projetos e micro-serviços utilizando metodologias ágeis, tanto em projetos individuais quanto nos em equipe, dividindo as tasks por sprints e utilizando o kanban para organização.
+Iniciei meus estudos em tecnologia na escola **Kenzie Academy Brasil** através de uma parceria com o **iFood** para formação de novos profissionais no mercado tecnológico. Fui um dos selecionados para uma bolsa renumerada para realizar o curso de **Desenvolvimento Web Full-Stack**. Na **Kenzie Academy** desenvolvi projetos e micro-serviços utilizando metodologias ágeis, tanto em projetos individuais quanto nos em equipe, dividindo as tasks por sprints e utilizando o kanban para organização. As principais tecnologias que me especializei nessa formação foram HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, expressJs, SQL, PostgreSQL, TypeORM, Python e Django, porém na Kenzie também trabalhamos em alguns serviços com Docker, MongoDB, Java, PHP e Wordpress.
 
-Atualmente estudo **desenvolvimento de software** na **Cubos Academy** através de um programa de bolsas do **iFood**, onde entre 30.000 candidatos fui um dos 1000 selecionados para participar do projeto. Também estudo **Desenvolvimento Web Front-end** na escola de programação **ADA TECH**.
+Em 2023 fui um dos 1000 selecionados entre 33.000 candidatos para receber a bolsa para o curso de **desenvolvimento de software** na **Cubos Academy** patrocinado pelo **iFood**. Nessa formação tivemos um foco maior no back-end, onde trabalhamos exclusivamente com o Node.js. Nessa formação trabalhei com a AWS, gerimos servidores SMTP para automação de e-mails, trabalhamos com buckets, querybuilders, templates, deploy em plataformas como Heroku e Render e entre outras tecnologias usadas no mercado para construção de Apis Rest Full.
+
+Atuamente estudo **Desenvolvimento Front-end** na **ADA TECH**, onde o foco é criar aplicações com o React.js utilizando a linguagem TypeScript. Neste curso trabalhamos com bibliotecas como Bootstrap, Styled-components, React Hooks, Redux e Tailwind. Antes de iniciarmos os módulos com o React trabalhamos por 2 meses com manipulação com DOM e programação orientada a objetos para construir aplicações utilizando o javascript vanilla.
 
 <div> 
   
