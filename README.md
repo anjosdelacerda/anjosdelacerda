@@ -6,8 +6,9 @@ Iniciei meus estudos em tecnologia na escola **Kenzie Academy Brasil** através 
 
 Em 2023 fui um dos 1000 selecionados entre 33.000 candidatos para receber a bolsa para o curso de **desenvolvimento de software** na **Cubos Academy** patrocinado pelo **iFood**. Nessa formação tivemos um foco maior no back-end, onde trabalhamos exclusivamente com o Node.js. Nessa formação trabalhei com a AWS, gerimos servidores SMTP para automação de e-mails, trabalhamos com buckets, querybuilders, templates, deploy em plataformas como Heroku e Render e entre outras tecnologias usadas no mercado para construção de Apis Rest Full.
 
-Atuamente estudo **Desenvolvimento Front-end** na **ADA TECH**, onde o foco é criar aplicações com o React.js utilizando a linguagem TypeScript. Neste curso trabalhamos com bibliotecas como Bootstrap, Styled-components, React Hooks, Redux e Tailwind. Antes de iniciarmos os módulos com o React trabalhamos por 2 meses com manipulação com DOM e programação orientada a objetos para construir aplicações utilizando o javascript vanilla.
+Em 2024 conclui o curso de **Desenvolvimento Front-end** na **ADA TECH**, onde o foco é criar aplicações com o React.js utilizando a linguagem TypeScript. Neste curso trabalhamos com bibliotecas como Bootstrap, Styled-components, React Hooks, Redux, RXJS e Tailwind. Antes de iniciarmos os módulos com o React trabalhamos por 2 meses com manipulação com DOM e programação orientada a objetos para construir aplicações utilizando o javascript vanilla.
 
+Também em 2024 conclui o curso **Re/Start II** da **Escola da Nuvem** com objetivo de desenvolver o conhecimento e habilidades práticas nos serviços de computação em nuvem da AWS. Graças a este curso eu consegui a minha primeira certificação em Cloud, a **AWS Cloud Practitioner**.
 <div> 
   
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anjosdelacerda&layout=compact&custom_title=Top%20%Linguagens)
