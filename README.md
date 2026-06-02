@@ -1,18 +1,30 @@
+# Olá, sou o Fernando Lacerda 👋
 
+**Desenvolvedor Full Stack Cloud**
 
-# SOBRE MIM:
+Desenvolvedor focado no ecossistema JavaScript/TypeScript e arquitetura em nuvem. Tenho experiência na construção de aplicações de ponta a ponta, modernização de sistemas legados e no desenho de soluções escaláveis utilizando a infraestrutura da AWS.
 
-Iniciei meus estudos em tecnologia na escola **Kenzie Academy Brasil** através de uma parceria com o **iFood** para formação de novos profissionais no mercado tecnológico. Fui um dos selecionados para uma bolsa renumerada para realizar o curso de **Desenvolvimento Web Full-Stack**. Na **Kenzie Academy** desenvolvi projetos e micro-serviços utilizando metodologias ágeis, tanto em projetos individuais quanto nos em equipe, dividindo as tasks por sprints e utilizando o kanban para organização. As principais tecnologias que me especializei nessa formação foram HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, expressJs, SQL, PostgreSQL, TypeORM, Python e Django.
+### 🚀 Stack Principal
+* **Linguagens:** TypeScript, JavaScript, Python
+* **Backend:** Node.js, NestJS, Python, Django
+* **Frontend:** React, Angular
+* **Cloud:** AWS
 
-Em 2023 fui um dos 1000 selecionados entre 33.000 candidatos para receber a bolsa para o curso de **desenvolvimento de software** na **Cubos Academy** patrocinado pelo **iFood**. Nessa formação tivemos um foco maior no back-end, onde trabalhamos exclusivamente com o Node.js. Nessa formação trabalhei com a AWS, gerimos servidores SMTP para automação de e-mails, trabalhamos com buckets, querybuilders, templates, deploy em plataformas como Heroku e Render e entre outras tecnologias usadas no mercado para construção de Apis Rest Full.
+### 🏆 Certificações
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Cloud Practitioner
 
-Em 2024 conclui o curso de **Desenvolvimento Front-end** na **ADA TECH**, onde o foco é criar aplicações com o React.js utilizando a linguagem TypeScript. Neste curso trabalhamos com bibliotecas como Bootstrap, Styled-components, React Hooks, Redux, RXJS e Tailwind. Antes de iniciarmos os módulos com o React trabalhamos por 2 meses com manipulação com DOM e programação orientada a objetos para construir aplicações utilizando o javascript vanilla.
+### 👨‍💻 Sobre mim
 
-Também em 2024 conclui o curso **Re/Start II** da **Escola da Nuvem** com objetivo de desenvolver o conhecimento e habilidades práticas nos serviços de computação em nuvem da AWS. Graças a este curso eu consegui a minha primeira certificação em Cloud, a **AWS Cloud Practitioner**.
-<div> 
-  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anjosdelacerda&layout=compact&custom_title=Top%20%Linguagens)
-</div>
+Minha jornada na tecnologia é marcada por imersões práticas e desenvolvimento full stack de ponta a ponta. Fui selecionado em programas de alta concorrência patrocinados pelo **iFood** (Kenzie Academy e Cubos Academy), onde consolidei minha base no ecossistema **JavaScript/TypeScript** e **Python/Django**.
+
+Ao longo da minha formação e atuação, o foco sempre foi na entrega de soluções reais e escaláveis:
+
+* **Backend & Arquitetura:** Construção de APIs RESTful com Node.js, manipulação de bancos de dados relacionais (PostgreSQL/SQL) e vivência com arquitetura de microsserviços.
+* **Frontend:** Desenvolvimento de interfaces robustas e dinâmicas com React.js e TypeScript, aplicando manipulação avançada de estado (Redux, Hooks) e componentização (projetos aprofundados na ADA TECH).
+* **Cloud (AWS):** Especialização em infraestrutura em nuvem, desde a gestão de buckets e servidores SMTP até o deploy de aplicações. Minha base técnica em nuvem foi impulsionada pelo programa Re/Start II da Escola da Nuvem e validada pelas minhas certificações AWS.
+
+Trabalho diariamente com metodologias ágeis (Kanban/Sprints), sempre com o objetivo de entregar código limpo, arquiteturas bem desenhadas e sistemas que resolvem problemas reais de forma eficiente.
 
 # HARD SKILLS:
 
@@ -33,6 +45,11 @@ Também em 2024 conclui o curso **Re/Start II** da **Escola da Nuvem** com objet
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
@@ -44,6 +61,4 @@ Também em 2024 conclui o curso **Re/Start II** da **Escola da Nuvem** com objet
 # CONTATO:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lacerda-fernando/)
-[![Last.FM](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/sojanarcedal)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/nandome/)
 <a href = "mailto:anjosdelacerda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
