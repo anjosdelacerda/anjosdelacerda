@@ -16,7 +16,9 @@ Desenvolvedor focado no ecossistema JavaScript/TypeScript e arquitetura em nuvem
 
 ### 👨‍💻 Sobre mim
 
-Minha jornada na tecnologia é marcada por imersões práticas e desenvolvimento full stack de ponta a ponta. Fui selecionado em programas de alta concorrência patrocinados pelo **iFood** (Kenzie Academy e Cubos Academy), onde consolidei minha base no ecossistema **JavaScript/TypeScript** e **Python/Django**.
+Sou um desenvolvedor full stack de São Paulo que tem paixão por Cloud. Sou um cara que gosta de ir ao cinema, teatro e concertos musicais, tenho um estagiário chamado Henrique, que é o meu doguinho de companhia enquanto estou codando em casa e gosto de escrever código enquanto escuto músicas de gostos questionáveis.
+
+Minha jornada na tecnologia é marcada por imersões práticas e desenvolvimento full stack de ponta a ponta. Fui selecionado em programas de alta concorrência patrocinados pelo **iFood** (Kenzie Academy, Ada Tech e Cubos Academy), onde consolidei minha base no ecossistema **JavaScript/TypeScript** e **Python/Django**.
 
 Ao longo da minha formação e atuação, o foco sempre foi na entrega de soluções reais e escaláveis:
 
