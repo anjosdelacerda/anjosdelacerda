@@ -57,6 +57,8 @@ Trabalho diariamente com metodologias ágeis (Kanban/Sprints), sempre com o obje
 
 # Metodologias ágeis:
 
+![Kanban](https://img.shields.io/badge/Kanban-FF9900?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-2C8EBB?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
