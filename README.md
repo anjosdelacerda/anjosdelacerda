@@ -5,9 +5,9 @@
 Desenvolvedor focado no ecossistema JavaScript/TypeScript e arquitetura em nuvem. Tenho experiência na construção de aplicações de ponta a ponta, modernização de sistemas legados e no desenho de soluções escaláveis utilizando a infraestrutura da AWS.
 
 ### 🚀 Stack Principal
-* **Linguagens:** TypeScript, JavaScript, Python
-* **Backend:** Node.js, NestJS, Python, Django
-* **Frontend:** React, Angular
+* **Linguagens:** TypeScript, JavaScript, Python, PHP
+* **Backend:** Node.js, NestJS, Python, Django, Symfony
+* **Frontend:** React, Angular, Vue
 * **Cloud:** AWS
 
 ### 🏆 Certificações
