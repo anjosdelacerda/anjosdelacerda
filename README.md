@@ -12,7 +12,7 @@ Desenvolvedor focado no ecossistema JavaScript/TypeScript e arquitetura em nuvem
 
 ### 🏆 Certificações
 * AWS Certified Solutions Architect – Associate
-* * AWS Certified AI Practitioner
+* AWS Certified AI Practitioner
 * AWS Certified Cloud Practitioner
 
 ### 👨‍💻 Sobre mim
